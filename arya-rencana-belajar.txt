@@ -3,7 +3,9 @@ Rencana Belajar Arya:
 -PHP
  *Dasar
  *Expert
+ *master
 -PHP framework
 -Java
 -R
 -Python
+-JavaScript

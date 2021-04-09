@@ -6,3 +6,4 @@ Rencana Belajar Arya:
 -PHP framework
 -Java
 -R
+-Python
